@@ -1,0 +1,7 @@
+streamlit
+google-genai
+gTTS
+pydub
+streamlit-mic-recorder
+pytest
+pytest-mock
